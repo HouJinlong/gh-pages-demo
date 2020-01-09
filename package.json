@@ -1,0 +1,22 @@
+{
+  "name": "gh-pages-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HouJinlong/gh-pages-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HouJinlong/gh-pages-demo/issues"
+  },
+  "homepage": "https://github.com/HouJinlong/gh-pages-demo#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
